@@ -2,7 +2,6 @@ package src.threading4;
 
 import java.util.Random;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class Worker {
